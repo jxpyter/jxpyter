@@ -10,7 +10,7 @@ Welcome to my profile! I'm a passionate developer focused on building scalable w
 
 Since some of my best work is in private repositories, I've curated this showcase to demonstrate the architecture, design, and features of these projects.
 
-### 🛡️ [Ottric](./Ottric) - Software Supply Chain Security Platform
+### 🛡️ [Ottric.](./Ottric) - Software Supply Chain Security Platform
 
 > **Ottric** is an automated platform for managing **Software Bill of Materials (SBOM)** and **Vulnerability Exploitability Exchange (VEX)**. It helps organizations track vulnerabilities in their software supply chain.
 
@@ -21,7 +21,7 @@ Since some of my best work is in private repositories, I've curated this showcas
 
 ---
 
-### 🎓 [Uniem v2.0](./Uniem) - The Comprehensive Social Learning Platform
+### 🎓 [Uniem SaaS](./Uniem) - The Comprehensive Social Learning Platform
 
 > **Uniem** is a next-generation education platform that combines **LMS features** with **social networking** and **gamification**. It encourages students to study together, track their progress, and earn rewards.
 
