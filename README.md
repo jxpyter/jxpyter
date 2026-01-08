@@ -1,6 +1,6 @@
 # Hi there, I'm jxpyter 👋
 
-### 👨‍💻 SaaS Engineer | Database Administrator
+### 👨‍💻 SaaS Engineer | Database Administrator | Security-First Development
 
 Welcome to my profile! I'm a passionate developer focused on building scalable web applications and secure software solutions. Here are some of my featured works.
 
