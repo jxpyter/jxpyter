@@ -2,9 +2,10 @@
 
 ### 👨‍💻 SaaS Engineer | Database Administrator | Security-First Development
 
-Behold, for you have entered the realm of the Architect.
-Mortal, you stand before the Sovereign of Logic.
-Welcome to the Nexus of Creation.
+"Welcome. Or don't stay. It makes no difference to me.<br>
+
+Code is cheap; logic is expensive. While the masses struggle with frameworks they barely understand, I architect scalable integrity and absolute security. To me, complexity isn't a feature—it’s a failure of intelligence.
+My systems are secure by design, not by accident. The work below represents my will; try to keep up, if you can even decode the intent behind it."
 
 ---
 
